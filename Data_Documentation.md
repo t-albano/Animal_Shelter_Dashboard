@@ -1,7 +1,7 @@
 # Data Documentation
 
 Data was collected from Dallas OpenData. The datasets were the October 2018 through April 2023 datasets.
-They were compiled and cleaned for visualization. Then smaller tables were created from this dataset to be used in Tableau.
+They were compiled and cleaned for visualization. Then smaller tables were created from this dataset to be used in Tableau. Initially, this cleaned dataset was `.csv`, but then it was converted to `.xlsx` for Tableau.
 
 
 `animal_shelter_cleaned.xlsx` variables:
